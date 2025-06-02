@@ -15,7 +15,7 @@
 
 ### About Me
 
-I am a fourth year Ph.D. Candidate in Computer Science at Georgia Tech, advised by Prof. Alberto Dainotti. I am interested in intersection of machine learning and computer networking. Before joining Georgia Tech, I received my bachelor's degree in Department of Computer Science and Technology, Tsinghua University in 2020.
+I am a fourth year Ph.D. Candidate in Computer Science at Georgia Tech, advised by Prof. Alberto Dainotti. I am interested in the intersection of machine learning, data science, and computer networking. Before joining Georgia Tech, I received my bachelor's degree in Department of Computer Science and Technology, Tsinghua University in 2020.
 [CV](https://github.com/zhiyichenGT/zhiyichenGT.github.io/blob/gh-pages/CV.pdf)
 
 ### Research Interests
