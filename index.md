@@ -15,10 +15,12 @@
 
 ### About Me
 
-I am a fourth year Ph.D. Candidate in Computer Science at Georgia Tech, advised by Prof. Alberto Dainotti. I am interested in the intersection of machine learning, data science, and computer networking. Before joining Georgia Tech, I received my bachelor's degree in Department of Computer Science and Technology, Tsinghua University in 2020.
+I am a fifth year Ph.D. Candidate in Computer Science at Georgia Tech, advised by Prof. Alberto Dainotti. I am interested in the intersection of machine learning, LLM, data science, and computer networking. Before joining Georgia Tech, I received my bachelor's degree in Department of Computer Science and Technology, Tsinghua University in 2020.
 [CV](https://github.com/zhiyichenGT/zhiyichenGT.github.io/blob/gh-pages/CV.pdf)
 
 ### Research Interests
+
+AI agent
 
 Application of machine learning in data science
 
@@ -27,6 +29,10 @@ Computer networking
 Internet measurement
 
 ### News
+
+Mar, 2026: My paper *AS2Biz: Leveraging Web Presence and AI to Improve AS Business Classification* was accepted by the Internet Measurement Conference (IMC) 2026.
+
+Jan, 2026: I started a student researcher position at Google LLC.
 
 Jun, 2025: I started a research summer internship with the Data Management and Intelligence group at Bytedance in San Jose.
 
