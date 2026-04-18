@@ -20,8 +20,6 @@ I am a fifth year Ph.D. Candidate in Computer Science at Georgia Tech, advised b
 
 ### Research Interests
 
-AI agent
-
 Application of machine learning and AI in data science
 
 Computer networking
