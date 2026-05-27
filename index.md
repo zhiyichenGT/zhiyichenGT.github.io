@@ -30,6 +30,10 @@ AI agent development
 
 ### News
 
+May, 2026: I was selected as the 2026 recipient of the Philip and Dianne Enslow Fellowship by the College of Computing at Georgia Tech.
+
+May, 2026: I started a research internship with the Data Management and Intelligence group at ByteDance in San Jose.
+
 Mar, 2026: My paper *AS2Biz: Leveraging Web Presence and AI to Improve AS Business Classification* was accepted by the Internet Measurement Conference (IMC) 2026. ([PDF](https://github.com/zhiyichenGT/zhiyichenGT.github.io/blob/gh-pages/as2biz.pdf))
 
 Jan, 2026: I started a student researcher position at Google LLC.
