@@ -63,14 +63,18 @@ Jun, 2021: My work *Principal Gradient Direction and Confidence Reservoir Sampli
 
 ### Publications
 
-[1] [**Improving the Inference of Sibling Autonomous Systems**](https://github.com/zhiyichenGT/zhiyichenGT.github.io/blob/gh-pages/Improving%20the%20Inference%20of%20Sibling%20Autonomous%20Systems%20(Accepted%20Manuscript).pdf)
+[1] [**TAHOE: Text-to-SQL with Automated Hint Optimization from Experience**](https://arxiv.org/abs/2606.12387)
+
+**Zhiyi Chen**, Jie Song, Peng Li
+
+[2] [**Improving the Inference of Sibling Autonomous Systems**](https://github.com/zhiyichenGT/zhiyichenGT.github.io/blob/gh-pages/Improving%20the%20Inference%20of%20Sibling%20Autonomous%20Systems%20(Accepted%20Manuscript).pdf)
 
 **Zhiyi Chen**, Zachary S. Bischof, Cecilia Testart, Alberto Dainotti,  PAM 2023
 
-[2] [**DiffPrep: Differentiable Data Preprocessing Pipeline Search for Learning over Tabular Data**](https://2023.sigmod.org/)
+[3] [**DiffPrep: Differentiable Data Preprocessing Pipeline Search for Learning over Tabular Data**](https://2023.sigmod.org/)
 
 Peng Li, **Zhiyi Chen**, Xu Chu, Kexin Rong,  SIGMOD 2023
 
-[3] [**Principal Gradient Direction and Confidence Reservoir Sampling for Continual Learning**](http://link.springer.com/chapter/10.1007/978-3-030-86340-1_34)
+[4] [**Principal Gradient Direction and Confidence Reservoir Sampling for Continual Learning**](http://link.springer.com/chapter/10.1007/978-3-030-86340-1_34)
 
 **Zhiyi Chen**, Tong Lin,  ICANN 2021
